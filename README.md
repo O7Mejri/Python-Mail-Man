@@ -30,9 +30,10 @@ Add .env to your .gitignore file to avoid committing sensitive information.
 
 ## Update Code:
 
-Open send_email.py.
-Update the to_address, subject, and body variables with your desired values.
-Run the Script:
+- Open send_email.py.
+- Update the to_address, subject, and body variables with your desired values.
+- Run the Script:
 
-   ```bash python send_email.py
+   ```bash 
+   python send_email.py
 
